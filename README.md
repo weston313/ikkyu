@@ -1,1 +1,1 @@
-# ikkyu
+Ikkyu is DSL(domain-specific language) in Big Data platform, suck spark and flink.
